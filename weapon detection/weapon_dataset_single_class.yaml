@@ -1,0 +1,6 @@
+path: C:\Users\Jiya\OneDrive - somaiya.edu\Documents\LY Project\final run\dataset\weapon_detection
+train: train/images
+val: val/images
+nc: 1
+names:
+- weapon
